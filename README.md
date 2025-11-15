@@ -114,6 +114,7 @@ Commands are case-sensitive.
 The ls command is used to display a list of content of a directory.
 
 Syntax: is
+
 <img width="855" height="68" alt="image" src="https://github.com/user-attachments/assets/5443c261-954a-4e19-a97c-fbf298f39fb9" />
 
 # 2) pwd Command
